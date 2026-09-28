@@ -54,9 +54,9 @@ Current research interests include extensions of sample selection models, robust
 
 ## Academic Profiles
 
-- [Federal University of Viçosa (UFV)](https://www.ufv.br/)
-- Lattes CV
-- ORCID
+- [Department of Statistics — Federal University of Viçosa (UFV)](https://det.ufv.br/portfolio-prof-fernando-de-souza-bastos/)
+- [Lattes CV](http://lattes.cnpq.br/9772451905214345)
+- [ORCID: 0000-0003-1503-4599](https://orcid.org/0000-0003-1503-4599)
 - Google Scholar
 
 ## Collaboration
